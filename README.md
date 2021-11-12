@@ -11,5 +11,5 @@
 
 
 [TP1]: https://github.com/Yaichzayneb123/TP1/blob/main/TP1(1).ipynb
-[TP2]:https://github.com/Yaichzayneb123/TP1/commit/0b9aeff4098bd8c15ecb7a4d8f702996170ee36e
+[TP2]:TP2.ipynb
 [TP3]:  
