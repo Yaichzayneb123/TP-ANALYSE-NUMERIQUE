@@ -12,4 +12,4 @@
 
 [TP1]: https://github.com/Yaichzayneb123/TP1/blob/main/TP1(1).ipynb
 [TP2]:https://github.com/Yaichzayneb123/TP1/blob/main/TP2_E.ipynb
-[TP3]:  
+[TP3]: https://github.com/Yaichzayneb123/TP-ANALYSE-NUMERIQUE/commit/9d82aa83db91b23d70e0cebd5bdc0d7b9842e52c 
